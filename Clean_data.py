@@ -1,7 +1,4 @@
-#XỬ LÝ BẢN GHI TRÙNG LẶP
-#XỬ LÝ GIÁ TRỊ THIẾU
-#CHUẨN HÓA KIỂU DỮ LIỆU VÀ ĐỊNH DẠNG
-#NHẬN DIỆN VÀ XỬ LÝ NGOẠI LỆ BAN ĐẦU
+
 import pandas as pd
 from pathlib import Path
 
