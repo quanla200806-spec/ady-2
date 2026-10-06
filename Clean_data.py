@@ -1,3 +1,7 @@
+#XỬ LÝ BẢN GHI TRÙNG LẶP
+#XỬ LÝ GIÁ TRỊ THIẾU
+#CHUẨN HÓA KIỂU DỮ LIỆU VÀ ĐỊNH DẠNG
+#NHẬN DIỆN VÀ XỬ LÝ NGOẠI LỆ BAN ĐẦU
 import pandas as pd
 from pathlib import Path
 
@@ -60,4 +64,4 @@ df_clean.to_excel("heart_cleaned.xlsx", index=False)
 print("Số dòng ban đầu:", len(df))
 print("Số dòng bị loại:", len(outliers))
 print("Số dòng sau khi làm sạch:", len(df_clean))
-print("minhngao321")
+print("vcl")
